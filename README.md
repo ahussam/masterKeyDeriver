@@ -1,5 +1,5 @@
 # masterKeyDeriver
-A JS script that derives a master key of sub keys by XOR. 
+A JS script that derives a master key of subkeys by XOR. 
 
 ![ss](mk.png)
 
